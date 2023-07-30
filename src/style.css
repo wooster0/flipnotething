@@ -1,0 +1,26 @@
+canvas {
+    image-rendering: pixelated;
+}
+
+#art-canvas {
+    border: 1px solid black;
+}
+
+#art-canvas-container {
+    text-align: center;
+    transform: scale(2) translate(0%, 30%);
+}
+
+.art-canvas-brush-button {
+    border: 1px solid red;
+    margin: 2.5px;
+    padding: 5px;
+}
+
+.art-canvas-brush-button:hover {
+    border: 1px solid green;
+}
+
+body {
+    overflow: hidden;
+}

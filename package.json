@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "esbuild": "^0.14.48",
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
